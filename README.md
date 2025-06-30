@@ -80,4 +80,10 @@ Vanilla-Web-Sekolah/
 🧑‍💻 MC – 2025
 GitHub
 
-Jika kamu merasa proyek ini bermanfaat, jangan lupa beri ⭐ di repo ini!
+
+
+<p align="center">
+  🌟 Jika kamu merasa proyek ini bermanfaat,<br>
+  jangan lupa beri ⭐ di repo ini ya! 🙌
+</p>
+
