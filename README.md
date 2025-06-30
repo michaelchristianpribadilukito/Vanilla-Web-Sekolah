@@ -43,7 +43,7 @@ Website ini dirancang sebagai halaman profil statis untuk memperkenalkan SMAK Ma
 ---
 
 ## 📁 Struktur Folder
-
+```
 Vanilla-Web-Sekolah/
 ├── assets/
 │ ├── icon/
@@ -63,7 +63,7 @@ Vanilla-Web-Sekolah/
 │ └── script.js
 ├── index.html
 └── README.md
-
+```
 
 ---
 
