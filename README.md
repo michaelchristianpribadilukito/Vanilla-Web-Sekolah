@@ -1,68 +1,82 @@
-# Vanilla-Web-Sekolah
+# 🌐 Vanilla-Web-Sekolah
 
-Ini adalah proyek website profil sekolah untuk SMAK Mater Dei Probolinggo yang dibuat menggunakan HTML, CSS, dan JavaScript.
+📌 **[Lihat Demo Langsung](https://michaelchristianpribadilukito.github.io/Vanilla-Web-Sekolah/#beranda)**
 
-## Deskripsi
+Website profil resmi **SMAK Mater Dei Probolinggo** yang dibangun menggunakan **HTML**, **CSS**, dan **JavaScript** tanpa framework — ringan, cepat, dan responsif.
 
-Website ini merupakan halaman profil statis yang menampilkan informasi tentang SMAK Mater Dei Probolinggo. Tujuannya adalah untuk memberikan informasi kepada calon siswa dan masyarakat umum mengenai sekolah, termasuk program akademik, proses penerimaan siswa baru (PPDB), dan kontak.
+---
 
-## Fitur
+## 🏫 Tentang Proyek
 
-- **Beranda:** Halaman utama dengan sambutan dan pengenalan singkat.
-- **Tentang Kami:** Sejarah singkat, visi, dan misi sekolah.
-- **Akademik:** Penjelasan mengenai fokus pembelajaran di sekolah, yaitu literasi, praktik, dan kreativitas.
-- **PPDB:** Informasi mengenai Penerimaan Peserta Didik Baru.
-- **Kontak:** Informasi kontak dan alamat sekolah.
-- **Responsive Design:** Tampilan website dapat menyesuaikan dengan berbagai ukuran layar.
-- **Animasi:** Menggunakan AOS (Animate On Scroll) untuk animasi saat menggulir halaman.
-- **Scroll to Top:** Tombol untuk kembali ke atas halaman dengan mudah.
+Website ini dirancang sebagai halaman profil statis untuk memperkenalkan SMAK Mater Dei Probolinggo kepada masyarakat luas. Menyediakan informasi penting bagi calon siswa dan orang tua mengenai:
 
-## Teknologi yang Digunakan
+- Sejarah sekolah  
+- Program akademik  
+- Penerimaan siswa baru (PPDB)  
+- Kontak dan lokasi  
 
--   **HTML:** Untuk struktur halaman website.
--   **CSS:** Untuk styling dan layout.
--   **JavaScript:** Untuk fungsionalitas interaktif seperti tombol "scroll to top".
--   **Font Awesome:** Untuk ikon-ikon yang digunakan di website.
--   **AOS (Animate On Scroll):** Untuk animasi saat menggulir.
+---
 
-## Struktur File
+## ✨ Fitur Unggulan
+
+- ✅ **Beranda** – Sambutan dan pengenalan sekolah  
+- ✅ **Tentang Kami** – Visi, misi, dan sejarah  
+- ✅ **Akademik** – Fokus pembelajaran: *Literasi*, *Praktik*, dan *Kreativitas*  
+- ✅ **PPDB** – Informasi lengkap Penerimaan Peserta Didik Baru  
+- ✅ **Kontak** – Alamat, email, dan sosial media  
+- ✅ **Responsive Design** – Tampilan optimal di semua perangkat  
+- ✅ **Animasi AOS** – Animasi halus saat menggulir  
+- ✅ **Scroll to Top** – Tombol kembali ke atas halaman  
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+| Teknologi         | Fungsi                                  |
+|-------------------|------------------------------------------|
+| `HTML5`           | Struktur konten                         |
+| `CSS3`            | Gaya dan tata letak halaman             |
+| `JavaScript`      | Fungsionalitas interaktif               |
+| `Font Awesome`    | Ikon sosial dan visual                  |
+| `AOS`             | Efek animasi saat scroll               |
+
+---
+
+## 📁 Struktur Folder
 
 Vanilla-Web-Sekolah/
 ├── assets/
-│   ├── icon/
-│   │   └── favicon.ico
-│   ├── images/
-│   │   ├── hero.webp
-│   │   ├── Kreatifitas.jpg
-│   │   ├── Literasi.png
-│   │   ├── ppdb.jpg
-│   │   ├── Praktek.png
-│   │   └── tentang.jpg
-│   └── teks.txt
+│ ├── icon/
+│ │ └── favicon.ico
+│ ├── images/
+│ │ ├── hero.webp
+│ │ ├── Kreatifitas.jpg
+│ │ ├── Literasi.png
+│ │ ├── ppdb.jpg
+│ │ ├── Praktek.png
+│ │ └── tentang.jpg
+│ └── teks.txt
 ├── dist/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── script.js
+│ ├── css/
+│ │ └── style.css
+│ └── js/
+│ └── script.js
 ├── index.html
 └── README.md
 
-## Cara Menjalankan
 
-1.  Clone repositori ini atau unduh file ZIP.
-2.  Buka file `index.html` di browser pilihan Anda.
+---
 
-## Kontak
+## 🚀 Cara Menjalankan
 
-**SMAK Mater Dei Probolinggo**
-- **Alamat:** Jl. Suroyo No.42, Tisnonegaran, Kec. Kanigaran, Kota Probolinggo, Jawa Timur 67211
-- **Telepon:** (0335) 421417
-- **Email:** smakmaterdeiprobolinggo@gmail.com
-- **Media Sosial:**
-    - Instagram: @smakmaterdei.probolinggo
-    - Facebook: SMAK Mater Dei Probolinggo
-    - YouTube: SMAK Mater Dei Channel
+1. Clone atau unduh repositori ini:
+   ```bash
+   git clone https://github.com/michaelchristianpribadilukito/Vanilla-Web-Sekolah.git
 
-## Kontributor
+2. Buka index.html menggunakan browser favorit Anda.
 
-- **MC** (Copyright 2025)
+👤 Kontributor
+🧑‍💻 MC – 2025
+GitHub
+
+Jika kamu merasa proyek ini bermanfaat, jangan lupa beri ⭐ di repo ini!
