@@ -75,7 +75,8 @@ Vanilla-Web-Sekolah/
 
 2. Buka index.html menggunakan browser favorit Anda.
 
-👤 Kontributor
+## 👤 Kontributor
+
 🧑‍💻 MC – 2025
 GitHub
 
